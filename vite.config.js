@@ -12,6 +12,7 @@ export default defineConfig({
       registerType: "autoUpdate",
       manifest: {
         name: "新年快乐2023",
+        short_name: "新年快乐2023",
         description: "新年快乐，兔年大吉🐇！祝你天天开心，天天可爱！",
         theme_color: "#232323",
         icons: [
